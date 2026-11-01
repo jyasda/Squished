@@ -27,8 +27,8 @@ Objective: Try to beat your highest score by dodgeing the flyswatters
  Credits & Assets
 
 Game & Programming: All developed personaly
-Third-Party Assets:
-Most assets in this game were made by me except the font and music which i got from:
+
+Third-Party Assets:Most assets in this game were made by me except the font and music which i got from:
 
 Font: https://www.dafont.com/super-mario-256.font
 
